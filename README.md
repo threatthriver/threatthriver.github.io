@@ -1,16 +1,16 @@
 # 💫 About Me
 
-🔭 **I'm currently working on** building a search engine.
+🔭 **Currently working on:** Building a cutting-edge search engine.
 
-👯 **I'm looking to collaborate on** projects involving AI and machine learning.
+👯 **Looking to collaborate on:** Innovative AI and machine learning projects.
 
-🤝 **I'm looking for help with** natural language processing and search ranking algorithms.
+🤝 **Seeking help with:** Natural language processing and search ranking algorithms.
 
-🌱 **I'm currently learning** more about advanced machine learning techniques.
+🌱 **Currently learning:** Advanced machine learning techniques.
 
-💬 **Ask me about** my passion for AI and its potential impact on the future.
+💬 **Ask me about:** My passion for AI and its transformative impact on the future.
 
-⚡ **Fun fact:** Did you know that the earliest forms of search engines pre-date the modern internet?
+⚡ **Fun fact:** Did you know that early search engines like Archie and Veronica paved the way for modern indexing?
 
 ---
 
@@ -32,7 +32,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Transformers](https://img.shields.io/badge/Transformers-%23000000.svg?style=for-the-badge&logo=transformers&logoColor=white)
 
 ---
 
