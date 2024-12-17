@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 **Currently working on:** Building a cutting-edge search engine.
+🔭 **Currently working on:** Building a cutting-edge ai chatbot.
 
 👯 **Looking to collaborate on:** Innovative AI and machine learning projects.
 
